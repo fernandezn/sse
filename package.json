@@ -1,0 +1,16 @@
+{
+  "name": "EventsSource",
+  "version": "0.0.0",
+  "description": "EventSource Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Fernandez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "connect": "^3.4.1",
+    "express": "^4.13.4"
+  }
+}

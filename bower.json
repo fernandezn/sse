@@ -1,0 +1,25 @@
+{
+  "name": "EventsSource",
+  "version": "0.0.0",
+  "main": "./public/js/app.js",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Nicolas Fernandez"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "event-source-polyfill": "~0.0.7"
+  }
+}
